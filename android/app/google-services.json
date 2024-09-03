@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238045160779",
+    "project_id": "piccrud",
+    "storage_bucket": "piccrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238045160779:android:bb4f0ecaa5d36707cb74ce",
+        "android_client_info": {
+          "package_name": "com.example.pic_firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARJrLuZGjexDnVJGgjfBve4rfXatVapD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
